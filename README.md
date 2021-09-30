@@ -1,7 +1,7 @@
 ## Welcome to the GitHub Page of Ahmad Mateen Ishanzai 
 
-linkedin.com/in/ahmad-ishanzai/ 
-twitter.com/infinte_netwrkr
+- linkedin.com/in/ahmad-ishanzai/ 
+- twitter.com/infinte_netwrkr
 
 I am a creative and team-player Full Stack Engineer who has excellent skills in designing and deploying dynamically scalable, highly available, fault-tolerant, and secure applications. I have excellent skills in developing and migrating to legacy products and design hybrid solutions. I am skilled in Python, JavaScript, and modern frameworks like Django and React. I have a good understanding of the Restful API and process with the use of traditional tools like Linux, Git. I am highly motivated, organized, and always ready to learn and adopt new technology.
 
