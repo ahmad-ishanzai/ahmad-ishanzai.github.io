@@ -11,7 +11,7 @@ PROFICIENT IN:
 * JavaScript & Frontend Development (ReactJS)
 * Solid Experiences in Shell/Bash Scripting
 
-I'm currently majoring in both my Master's in Computer Science & English at Acme Collins School. Hopefully I'll be working on my PhD in Computer Science soon & also become a professor. I've been working on developing my own programming language called Project: CherryScript Programming Language & below are the list of commands that it's designed to have based off of other programming languages:
+I'm currently majoring in both my Master's in Computer Science & English at Acme Collins School. Hopefully I'll be working on my PhD in Computer Science soon & also become a professor. I've been working on developing my own programming language called Project: CherryScript Programming Language.
 
 * C++ Programming Subject Matter Expert | Edchart Technologies | May 2021
 * Remote Work and Virtual Collaboration Professional Certificate - RWVCPC | CertiProf | Feb 2021
