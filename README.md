@@ -51,9 +51,6 @@ Licenses & Certifications:
 
 ```markdown
 
-
-
-
 Declaring variables:
 
 x = 5
@@ -116,8 +113,6 @@ my_function()
 
 ```markdown
 
-
-
 Declaring class:
 
 
@@ -170,7 +165,6 @@ modifier returnType nameOfMethod (Parameter List) { // method body }
 # My SQL commands:
 
 ```markdown
-
 
 mysql> CREATE DATABASE Students; mysql> USE Students
 
