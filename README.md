@@ -47,11 +47,11 @@ Licenses & Certifications:
 
 # List of Programming Languages & Code that Project: CherryScript Programming Language is designed to be built off of: 
 
+# Python commands:
+
 ```markdown
 Syntax highlighted code block
 
-
-# Python commands:
 
 
 Declaring variables:
@@ -109,11 +109,13 @@ def my_function(): print("Hello from a function")
 
 my_function()
 
-
+```
 
 
 # Java commands:
 
+```markdown
+Syntax highlighted code block
 
 
 Declaring class:
@@ -163,9 +165,12 @@ Method
 modifier returnType nameOfMethod (Parameter List) { // method body }
 
 
-
+```
 
 # My SQL commands:
+
+```markdown
+Syntax highlighted code block
 
 mysql> CREATE DATABASE Students; mysql> USE Students
 
@@ -183,10 +188,13 @@ mysql> INSERT INTO Information VALUES ('Amanda','Williams','f','10','1999-03-30'
 mysql> INSERT INTO Information VALUES ('Cristie','Wills','f','10','1999-02-05');
 
 
-
+```
 
 # PHP Commands:
 
+
+```markdown
+Syntax highlighted code block
 
 <!DOCTYPE html>
 
