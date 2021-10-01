@@ -15,6 +15,16 @@ PROFICIENT IN:
 
 I'm currently majoring in both my Master's in Computer Science & English at Acme Collins School. Hopefully I'll be working on my PhD in Computer Science soon & also become a Professor. I've been working on developing my own programming language called Project: CherryScript Programming Language.
 
+Education:
+
+* B.Sc. in Computer Science - Acme Collins School 2020 - 2021
+* Diploma in Computer Science - Acme Collins School 2020 - 2020
+* Diploma in Software Engineering - European Open University 2021-2021
+* Diploma in Computer Programming - John Academy - 2020 - 2020
+* Diploma in DevOps Engineering - Alison - 2019 - 2019 
+* Full Stack Engineering Certification - FreeCodeCamp - 2015 - 2019
+
+
 Licenses & Certifications:
 
 * C++ Programming Subject Matter Expert | Edchart Technologies | May 2021
