@@ -50,7 +50,7 @@ Licenses & Certifications:
 # Python commands:
 
 ```markdown
-Syntax highlighted code block
+
 
 
 
@@ -115,7 +115,7 @@ my_function()
 # Java commands:
 
 ```markdown
-Syntax highlighted code block
+
 
 
 Declaring class:
@@ -170,7 +170,7 @@ modifier returnType nameOfMethod (Parameter List) { // method body }
 # My SQL commands:
 
 ```markdown
-Syntax highlighted code block
+
 
 mysql> CREATE DATABASE Students; mysql> USE Students
 
@@ -194,7 +194,6 @@ mysql> INSERT INTO Information VALUES ('Cristie','Wills','f','10','1999-02-05');
 
 
 ```markdown
-Syntax highlighted code block
 
 <!DOCTYPE html>
 
