@@ -43,6 +43,7 @@ Licenses & Certifications:
 * Python for Data Science | IBM | Jan 2021
 * Introduction to IoT | Cisco | Jan 2021
 
+![Resized_CherryScript_Logo_auto_x2_50](https://user-images.githubusercontent.com/23512010/135560948-97044bd8-b5f7-4164-89f5-06d0350ed71d.png)
 
 # List of Programming Languages & Code that Project: CherryScript Programming Language is designed to be built off of: 
 
