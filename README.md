@@ -46,15 +46,185 @@ Licenses & Certifications:
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Python commands:
 
-1. Numbered
-2. List
+
+Declaring variables:
+
+x = 5
+
+y = "John"
+
+Print:
+
+x = 5
+
+y = "John" Print(x) Print(y)
+
+Taking input
+
+Value = input ("Please enter a string:\n") Print ('You entered {value}')
+
+Lists
+
+thislist = ["apple", "banana", "cherry"] 
+print(thislist)
+
+Dictionaries thisdict = { "brand": "Ford",
+
+"model": "Mustang", "year": 1964
+
+}
+
+
+
+
+Tuples
+
+
+thistuple = ("apple", "banana", "cherry", "apple", "cherry") print(thistuple)
+
+
+
+Sets
+
+
+thisset = {"apple", "banana", "cherry", "apple"} print(thisset)
+
+Functions
+
+
+def my_function(): print("Hello from a function") 
+
+
+
+my_function()
+
+
+
+
+# Java commands:
+
+
+
+Declaring class:
+
+
+public class MyFirstJavaProgram
+
+
+{
+
+public static void main(String []args)
+
+
+{
+
+
+System.out.println("Hello World");
+
+
+}
+
+
+}
+
+
+
+
+Printing:
+
+
+System.out.println("Hello World");
+
+
+
+
+Constructor
+
+
+class Test { Test() { // constructor body } }
+
+
+
+
+Method
+
+
+modifier returnType nameOfMethod (Parameter List) { // method body }
+
+
+
+
+# My SQL commands:
+
+mysql> CREATE DATABASE Students; mysql> USE Students
+
+mysql> CREATE TABLE Information (firstname VARCHAR(20),lastname VARCHAR(20),gender CHAR(1),grade INT(10), dob DATE);
+
+
+
+mysql> SHOW TABLES;
+
+
+
+
+mysql> INSERT INTO Information VALUES ('Amanda','Williams','f','10','1999-03-30'); mysql> INSERT INTO Information VALUES ('Peter','Williams','m','10','1998-03-15');
+
+mysql> INSERT INTO Information VALUES ('Cristie','Wills','f','10','1999-02-05');
+
+
+
+
+# PHP Commands:
+
+
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+
+
+<h1>Developer News</h1>
+
+
+
+<?php echo "The Best PHP Examples"; ?>
+
+
+
+</body>
+
+</html>
+
+
+
+<?php
+
+// This is a single-line comment
+
+
+
+# You can also make single-line comments like this
+
+?>
+
+
+
+<?php
+
+/*
+
+This comment block spans over multiple
+
+lines
+
+*/
+
+?>
 
 **Bold** and _Italic_ and `Code` text
 
