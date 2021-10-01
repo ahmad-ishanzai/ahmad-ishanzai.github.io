@@ -43,4 +43,22 @@ Licenses & Certifications:
 * Python for Data Science | IBM | Jan 2021
 * Introduction to IoT | Cisco | Jan 2021
 
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 I'll keep you updated on the process of the official release date of "CherryScript" & if anyone has any feedback, please be sure to follow up with me soon... :) Thank you!!
