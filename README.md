@@ -15,6 +15,13 @@ PROFICIENT IN:
 
 I'm currently majoring in both my Master's in Computer Science & English at Acme Collins School. Hopefully I'll be working on my PhD in Computer Science soon & also become a Professor. I've been working on developing my own programming language called Project: CherryScript Programming Language.
 
+Professional Experience: 
+
+* Independent Contractor - GetOut, Inc. - 2021 - Present
+* Full Stack Engineer - GetOut, Inc. - 2020 - Present
+* Research Scientist - SanKott Technologies, Inc. - 2018 - Present 
+* Software Engineer - Smart Intellectuals, Inc. - 2018 - Present
+
 Education:
 
 * B.Sc. in Computer Science - Acme Collins School 2020 - 2021
