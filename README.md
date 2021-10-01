@@ -43,6 +43,7 @@ Licenses & Certifications:
 * Python for Data Science | IBM | Jan 2021
 * Introduction to IoT | Cisco | Jan 2021
 
+
 # List of Programming Languages & Code that Project: CherryScript Programming Language is designed to be built off of: 
 
 ```markdown
@@ -232,9 +233,8 @@ lines
 
 ?>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+| [Project: CherryScript](https://i.ibb.co/4pjPrZS/Resized-Cherry-Script-Logo-auto-x2-50-1-removebg-preview.png)
 ```
 
 I'll keep you updated on the process of the official release date of "CherryScript" & if anyone has any feedback, please be sure to follow up with me soon... :) Thank you!!
