@@ -233,8 +233,7 @@ lines
 
 ?>
 
-
-| [Project: CherryScript](https://i.ibb.co/4pjPrZS/Resized-Cherry-Script-Logo-auto-x2-50-1-removebg-preview.png)
+[Project: CherryScript](https://i.ibb.co/4pjPrZS/Resized-Cherry-Script-Logo-auto-x2-50-1-removebg-preview.png)
 ```
 
 I'll keep you updated on the process of the official release date of "CherryScript" & if anyone has any feedback, please be sure to follow up with me soon... :) Thank you!!
