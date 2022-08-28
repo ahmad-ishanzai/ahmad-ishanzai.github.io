@@ -1,6 +1,6 @@
 ## Welcome to the Official GitHub Page of Ahmad Mateen Ishanzai 
 
-[![279790029-103302272383626-4166888178115034103-n-removebg-preview.png](https://i.postimg.cc/HnCR5CyK/279790029-103302272383626-4166888178115034103-n-removebg-preview.png)](https://postimg.cc/WFX5LCS6)
+[![279790029-103302272383626-4166888178115034103-n-removebg-preview-2.png](https://i.postimg.cc/h41crCtx/279790029-103302272383626-4166888178115034103-n-removebg-preview-2.png)](https://postimg.cc/F1zMFVcs)
 
 - [Linkedin](http://linkedin.com/in/ahmad-ishanzai/)
 - [Twitter](http://twitter.com/infinte_netwrkr)
