@@ -1,6 +1,6 @@
 ## Welcome to the Official GitHub Page of Ahmad Mateen Ishanzai 
 
-[![Cool-Anime-Design.jpg](https://i.postimg.cc/sD6LxG3Q/Cool-Anime-Design.jpg)](https://postimg.cc/nCm2wzjp)
+[![Cool-Anime-Design-cleanup.jpg](https://i.postimg.cc/fT5JPmBB/Cool-Anime-Design-cleanup.jpg)](https://postimg.cc/fJtztt49)
 
 - [Linkedin](http://linkedin.com/in/ahmad-ishanzai/)
 - [Twitter](http://twitter.com/infinte_netwrkr)
